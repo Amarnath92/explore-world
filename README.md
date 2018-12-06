@@ -1,6 +1,6 @@
 /** Project initial stup **/
 
-step 1: Checkout the code from the master branch
+step 1: Checkout the code from the master branch(command to run:git clone path)
 
 step 2: npm install -g @angular/cli
 
